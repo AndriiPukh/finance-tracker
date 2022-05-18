@@ -1,8 +1,8 @@
 import React from 'react'
-import './Signup.css'
+import styles from './Signup.module.css'
 
 function Signup() {
-  return <div />
+  return <div className={styles} />
 }
 
 export default Signup

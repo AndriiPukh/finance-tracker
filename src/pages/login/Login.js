@@ -1,8 +1,8 @@
 import React from 'react'
-import './Login.css'
+import styles from './Login.module.css'
 
 function Login() {
-  return <div />
+  return <div className={styles} />
 }
 
 export default Login
