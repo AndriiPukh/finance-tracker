@@ -68,6 +68,7 @@ module.exports = {
         },
       },
     ],
+    'import/prefer-default-export': 0,
     'jsx-a11y/no-static-element-interactions': [
       'off',
       {
