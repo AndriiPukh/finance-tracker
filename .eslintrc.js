@@ -64,7 +64,7 @@ module.exports = {
         ImportDeclaration: 'never',
         ExportDeclaration: {
           multiline: true,
-          minProperties: 3,
+          minProperties: 4,
         },
       },
     ],
